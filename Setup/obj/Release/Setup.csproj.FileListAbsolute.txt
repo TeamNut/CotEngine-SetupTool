@@ -1,0 +1,6 @@
+D:\Git\CotEngine\Setup\Setup\bin\Release\Setup.exe.config
+D:\Git\CotEngine\Setup\Setup\bin\Release\Setup.exe
+D:\Git\CotEngine\Setup\Setup\bin\Release\Setup.pdb
+D:\Git\CotEngine\Setup\Setup\obj\Release\Setup.csproj.CoreCompileInputs.cache
+D:\Git\CotEngine\Setup\Setup\obj\Release\Setup.exe
+D:\Git\CotEngine\Setup\Setup\obj\Release\Setup.pdb
